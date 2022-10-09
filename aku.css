@@ -1,0 +1,37 @@
+}
+
+.judul{
+    text-align: center;
+    font-size: 30px;
+}table,th,td {
+            border:1px solid purple;
+        }
+        table tr td {
+            text-align: scale;
+        }  
+    th{
+      background-color: purple;
+      color:blue ;
+    } 
+ tr {
+    background: purple;
+    padding: 2px solid;
+    text-align: center;
+
+  }
+  td {
+    background: white;
+    cursor: pointer;
+    transition: .3s;
+    padding: 2px solid;
+    text-align: center;
+  }
+  td:hover {
+    background: purple;
+  }
+  .tabel1 {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+
+  }
